@@ -9,6 +9,7 @@ A floating icons script for QB/ESX/QBOX , the icons have a smooth animation and 
 
 Below you will find a simple step-by-step guide explaining
 how to create and use your own custom icons.
+
 ⚠️ This is purely visual and does not include any functionality linked to the icons. ⚠️
 
 -------------------------------------------------------------------
